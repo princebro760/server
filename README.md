@@ -1,5 +1,5 @@
 # server
 Join us
 <br>
-<font="Algerian">
+<font>
 Owner name Prince Kumar Shaw </font>
