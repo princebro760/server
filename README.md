@@ -1,5 +1,5 @@
 # server
 Join us
 <br>
-<font color="blue"> 
+<font size="6"> 
 Owner name Prince Kumar Shaw </font>
